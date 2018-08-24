@@ -2,7 +2,7 @@
 <c3p0-config>
 	<named-config name="webDataSource">
 	
-		<property name="jdbcUrl">jdbc:mysql://localhost:3306/bookstore_0816</property>
+		<property name="jdbcUrl">jdbc:mysql:///bookstore</property>
 		<property name="driverClass">com.mysql.jdbc.Driver</property>
 		<property name="user">root</property>
 		<property name="password">root</property>
